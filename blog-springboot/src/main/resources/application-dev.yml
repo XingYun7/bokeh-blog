@@ -6,6 +6,7 @@ spring:
     username: root
     password: 123456
     hikari:
+      # 池中最小空闲连接数量。默认值10
       minimum-idle: 5
       # 空闲连接存活最大时间，默认600000（10分钟）
       idle-timeout: 180000
