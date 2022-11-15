@@ -2,7 +2,7 @@
 
 <p align=center>
   <a href="https://www.talkxj.com">
-    <img src="https://static.talkxj.com/articles/4a8ca439f6a4cce8316f9a885c632cee.jpg" alt="风丶宇的个人博客" style="border-radius: 50%">
+    <img src="https://static.talkxj.com/articles/4a8ca439f6a4cce8316f9a885c632cee.jpg" alt="bokeh个人博客" style="border-radius: 50%">
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-   <a target="_blank" href="https://github.com/X1192176811/blog">
+   <a target="_blank" href="https://github.com/XingYun7/bokeh-blog">
       <img src="https://img.shields.io/hexpm/l/plug.svg"/>
       <img src="https://img.shields.io/badge/JDK-1.8+-green.svg"/>
       <img src="https://img.shields.io/badge/springboot-2.4.2.RELEASE-green"/>
